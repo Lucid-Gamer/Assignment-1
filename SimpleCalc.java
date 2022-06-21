@@ -52,6 +52,7 @@ public class SimpleCalc {
 		int a,b,c,choice;
 		
 		do {
+			System.out.println("This is a sample java program");
 			System.out.println("1. Addition");
 			System.out.println("2. Substraction");
 			System.out.println("3. Multiplication");
